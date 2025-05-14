@@ -12,7 +12,12 @@ the bottom of pages, reading through unhelpful reviews, vetting fake products, c
 different platforms… and rinse and repeat. Figure 1 below demonstrates this prevalent issue.
 
 ![Review](https://github.com/user-attachments/assets/34ebff41-0f24-4149-8233-52e1f8d3faad)
+![Review2](https://github.com/user-attachments/assets/b2d0b764-cdfc-438b-b908-93cf1219345f)
 
+At first glance, the 5-star rating below the Walmart link looks glaringly positive. But after investigating this link further the reviews are, in actuality, very bad and even reveal that this product is fake and distributed by a third-party seller. This is just one of the many examples present online—Amazon especially has this issue with branded items sold by a third party. 
+
+# Solution: 
+Now introducing _BeautyHive_, the hub for all beauty product reviews! For real beauty enthusiasts, by real beauty enthusiasts; no advertisements, sponsorships, or bot reviews. BeautyHive centralizes and aggregates reviews for makeup and skincare products, cutting down time spent on searching for trustworthy reviews. Think LetterBoxd or Yelp, but for makeup and skincare! 
 
 # About Each File:
 * **ConnectionScript_Public.py** contains the code for the project. Using MySQL Connector for Python, I integrated a MySQL database with Python by initializing the database in MySQL, and then utilizing this Python script to interact with and edit the database.
